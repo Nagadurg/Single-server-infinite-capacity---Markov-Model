@@ -57,6 +57,6 @@ print("---------------------------------------------------------------")
 
 <img width="377" alt="image" src="https://github.com/Nagadurg/Single-server-infinite-capacity---Markov-Model/assets/94185707/9f5602ee-d265-4eb4-aca4-93d1e5c32b0c">
 
-#resultSingle server with infinite capacity (M/M/1):(oo/FIFO) has done successfully using Visual components.
+#result:
 Single server with infinite capacity (M/M/1):(oo/FIFO) has done successfully using Visual components.
 
